@@ -1,0 +1,5 @@
+# Ignore the Streamlit secrets file to protect the API key
+.streamlit/secrets.toml
+
+# Ignore large video files
+*.mp4
